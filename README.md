@@ -23,7 +23,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Projeto de Luta, que consiste em interações, utilizando conhecimentos de orientação a objetos.
+Projeto de luta que faz uso dos conhecimentos adquiridos no curso da B7Web sobre HTML, CSS, Javascript e Programação Orientada a Objetos (POO).
 
 
 
